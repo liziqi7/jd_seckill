@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import sys
 from jd_spider_requests import JdSeckill
 
